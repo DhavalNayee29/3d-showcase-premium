@@ -1,36 +1,68 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 3D Showcase Premium
 
-## Getting Started
+![GitHub stars](https://img.shields.io/github/stars/DhavalNayee29/3d-showcase-premium?style=social) ![GitHub forks](https://img.shields.io/github/forks/DhavalNayee29/3d-showcase-premium?style=social) ![GitHub issues](https://img.shields.io/github/issues/DhavalNayee29/3d-showcase-premium) ![License](https://img.shields.io/github/license/DhavalNayee29/3d-showcase-premium)
 
-First, run the development server:
+## 🎯 Project Overview
+**3D Showcase Premium** is a sleek, interactive, and professional 3D model viewer built with **React Three Fiber**, **Drei**, and **Framer Motion**.  
+It allows users to upload `.glb` or `.gltf` files and explore them in a polished, responsive environment with glassmorphism design, advanced lighting, shadows, and smooth animations.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 🎨 Premium Design Elements
+- Dark gradient backgrounds with subtle glow effects  
+- Glassmorphism cards with blur and transparency  
+- Neon glow borders and hover animations  
+- Smooth **Framer Motion** animations throughout  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 🖼 Interactive 3D Showcase
+- Large 3D model viewer with **React Three Fiber + Drei**  
+- Drag & drop upload with premium glassmorphism styling  
+- Instant model loading with animated progress indicators  
+- OrbitControls with zoom, rotate, pan, and touch support  
 
-## Learn More
+### 📱 Responsive & Performance
+- Mobile-first design with touch-friendly controls  
+- Advanced lighting with shadows and reflections  
+- Memory optimization for large file handling  
+- Professional camera controls and auto-fitting models  
 
-To learn more about Next.js, take a look at the following resources:
+### ✨ Premium UX Features
+- Animated upload progress with circular indicators  
+- Fullscreen viewing mode  
+- Auto-scaling models for optimal display  
+- Smooth scroll and hover animations  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 💻 Technology Stack
+- **React 18**  
+- **Next.js 14**  
+- **TypeScript**  
+- **React Three Fiber**  
+- **Drei** (helpers & environment presets)  
+- **Framer Motion** (animations)  
+- **Tailwind CSS** (modern UI & responsiveness)  
+- **Three.js** (3D rendering engine)  
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🖼 Screenshots
+> Replace with actual screenshots of your 3D showcase  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+![Screenshot 1](./screenshots/screenshot1.png)  
+![Screenshot 2](./screenshots/screenshot2.png)  
+
+---
+
+## 🔗 Live Demo
+> Replace with live demo link if hosted  
+[Live Demo](https://your-live-demo-link.com)
+
+---
+
+## ⚡ Installation & Setup
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/DhavalNayee29/3d-showcase-premium.git
