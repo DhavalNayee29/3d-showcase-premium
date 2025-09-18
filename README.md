@@ -48,20 +48,6 @@ It allows users to upload `.glb` or `.gltf` files and explore them in a polished
 
 ---
 
-## 🖼 Screenshots
-> Replace with actual screenshots of your 3D showcase  
-
-![Screenshot 1](./screenshots/screenshot1.png)  
-![Screenshot 2](./screenshots/screenshot2.png)  
-
----
-
-## 🔗 Live Demo
-> Replace with live demo link if hosted  
-[Live Demo](https://your-live-demo-link.com)
-
----
-
 ## ⚡ Installation & Setup
 1. Clone the repo:
    ```bash
